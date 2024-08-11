@@ -1,0 +1,14 @@
+body {
+    overflow: auto;
+    background: #000;
+    color: #fff;
+}
+
+:root {
+    color-scheme: dark;
+}
+
+iframe {
+    width: 400px;
+    height: 400px;
+}

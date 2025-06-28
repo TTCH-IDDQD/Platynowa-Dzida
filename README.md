@@ -1,3 +1,6 @@
+Dzięki tej wtyczce i funkcji która przywróciła wypierdalajki dla jej użytkowników, administracja jbzd przywróciła je oficjalnie na całej stronie dla wszystkich. Nie ma za co.
+
+
 Oświadczenie dotyczące odpowiedzialności za użytkowanie wtyczki
 
 Wtyczka została stworzona w celu ułatwienia korzystania z platformy poprzez automatyzację wybranych działań zgodnych z regulaminem strony.
